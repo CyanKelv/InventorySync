@@ -1,0 +1,7 @@
+---
+name: InventorySync
+version: 0.0.1
+main: kelvinlolz\InventorySync\Main
+api: 4.8.1
+src-namespace-prefix: kelvinlolz\InventorySync
+...
